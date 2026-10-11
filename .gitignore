@@ -1,0 +1,10 @@
+# Include source files, documentation, dependencies, and the seed list.
+*
+!.gitignore
+!README.md
+!requirements.txt
+!common/
+!common/*.py
+!common/seeds.json
+!E[1-7]/
+!E[1-7]/*.py
